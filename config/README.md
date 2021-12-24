@@ -35,6 +35,11 @@ by
 DEFAULT_BINDIR="/usr/local/bin"
 ```
 
+```
+bash install.sh
+exit
+```
+
 2. Get port list
 
 ```
