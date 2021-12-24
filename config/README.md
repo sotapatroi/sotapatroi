@@ -3,6 +3,8 @@ Android
 
 Serial Bluetooth Terminal
 
+https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_terminal&hl=en_US&gl=US
+
 ![Serial Bluetooth Terminal - Settings -> Receive](B01.jpg "Serial Bluetooth Terminal - Settings -> Receive")
 ![Serial Bluetooth Terminal - Settings -> Send](B02.jpg "Serial Bluetooth Terminal - Settings -> Send")
 
