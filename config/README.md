@@ -55,6 +55,10 @@ Port         Protocol Type    Board Name FQBN Core
 
 3. Upload sketch
 
+Exec command while BOOT button is pressed
+
+![ESP32 BOOT button](ESP3201.jpg "ESP32 BOOT button")
+
 ```
 arduino-cli upload -p /dev/ttyUSB0 --fqbn esp32:esp32:esp32-poe-iso EXAMPLE.ino
 ```
