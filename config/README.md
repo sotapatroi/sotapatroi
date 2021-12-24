@@ -22,7 +22,7 @@ arduino-cli
 ```
 su
 cd /tmp
-curl -fsSL https://raw.githubusercontent.com/arduino/arduino-cli/master/install.sh
+curl -fsSL https://raw.githubusercontent.com/arduino/arduino-cli/master/install.sh > install.sh
 ```
 
 Edit install.sh and replace:
