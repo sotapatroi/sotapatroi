@@ -116,8 +116,11 @@ class BLEgetListCallback: public BLEAdvertisedDeviceCallbacks
     {
         String mac = beacon.getAddress().toString().c_str();
         String name = "";
+        String uuid = beacon.toString().c_str();
         if(beacon.haveName())
             name = beacon.getName().c_str();
+
+        Serial.println(uuid);
 
         if(BEACON_SCAN_TYPE=="SET")
         {
